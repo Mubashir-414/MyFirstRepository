@@ -1,2 +1,3 @@
 # MyFirstRepository
-this is my first repository on this platform
+This is my first repository on this platform
+I am very committed to this course.
